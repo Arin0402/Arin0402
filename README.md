@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! Myself Arin Goyal. I am a software undergrad pursuing B. Tech in Computer Science and Engineering. <br>I like to explore new domains and learn new things. I love problem solving as engineering is all about problem solving and seeing things from different perspective :)<br>
+Hey! Myself Arin Goyal. I am a software undergrad pursuing B. Tech in Computer Science and Engineering from JECRC, Jaipur. I am currently working as an intern at Autodesk. <br>I like to explore new domains and learn new things. I love problem solving as engineering is all about problem solving and seeing things from different perspective :)<br>
 
 
 ## 🌐 Socials:
